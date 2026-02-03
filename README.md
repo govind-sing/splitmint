@@ -51,7 +51,7 @@ splitmint/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/splitmint.git
+git clone https://github.com/govind-sing/splitmint.git
 
 ```
 
